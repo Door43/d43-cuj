@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cuj:home|Door43 (cuj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cuj|d43-cuj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cuj/archive/master.zip|d43-cuj.zip]]
+
+**Recent Changes**
+{{changes>ns = cuj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cuj|Ethnologue data]]
+
